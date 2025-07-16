@@ -62,8 +62,8 @@ cd apache-activemq-5.19.0/bin
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/email-jms-service.git
-cd email-jms-service
+git clone https://github.com/akyong/Spring-Boot-Email-Queue-Service
+cd Spring-Boot-Email-Queue-Service
 ```
 
 ### 2. Configure application.properties
