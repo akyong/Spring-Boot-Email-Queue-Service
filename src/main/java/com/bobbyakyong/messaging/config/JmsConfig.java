@@ -1,3 +1,9 @@
+/**
+ * Copyright (c) 2025 Bobby Akyong
+ * Licensed under the MIT License
+ * Author: https://www.bobbyakyong.com | bobbyakyong@gmail.com
+ */
+
 package com.bobbyakyong.messaging.config;
 
 import org.springframework.context.annotation.Bean;
