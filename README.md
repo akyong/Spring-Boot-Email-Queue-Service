@@ -10,7 +10,7 @@ This project is designed to demonstrate:
 - JSON serialization and custom `MessageConverter`
 
 ---
-![Deskripsi GIF](https://raw.githubusercontent.com/username/nama-repo/main/assets/nama-file.gif)
+![Deskripsi GIF](https://github.com/akyong/Spring-Boot-Email-Queue-Service/blob/main/example.gif)
 
 ## ✨ Features
 
