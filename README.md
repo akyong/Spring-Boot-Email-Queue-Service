@@ -80,6 +80,12 @@ Use [Gmail App Password](https://myaccount.google.com/apppasswords) if you have 
 ```bash
 ./apache-activemq-5.19.0/bin/activemq console
 ```
+if you need to see the log. Try:
+```bash
+ tail -f bin/data/activemq.log
+```
+If activemq is running, you can go to http://localhost:8161/
+Default username/password: admin / admin
 
 ### 4. Run the Spring Boot App
 Author use maven so
