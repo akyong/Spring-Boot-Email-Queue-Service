@@ -10,6 +10,7 @@ This project is designed to demonstrate:
 - JSON serialization and custom `MessageConverter`
 
 ---
+![Deskripsi GIF](https://raw.githubusercontent.com/username/nama-repo/main/assets/nama-file.gif)
 
 ## ✨ Features
 
